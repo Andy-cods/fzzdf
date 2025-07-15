@@ -4,14 +4,9 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Chat Widget Demo</title>
-
-    <!-- Giao diện của widget -->
     <link href="https://cdn.jsdelivr.net/npm/@n8n/chat/dist/style.css" rel="stylesheet" />
-
-    <!-- Script chính để tạo chat widget -->
     <script type="module">
       import { createChat } from 'https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js';
-
       createChat({
         webhookUrl: 'https://logaivn.app.n8n.cloud/webhook/10b6a3f9-80b4-4801-8c82-311736b8fdfa/chat'
       });
