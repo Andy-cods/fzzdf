@@ -84,15 +84,6 @@
         <mxCell id="F3ab-qrTLPZB82OGR7XM-270" value="No" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="F3ab-qrTLPZB82OGR7XM-269">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F3ab-qrTLPZB82OGR7XM-291" value="Label text" style="text;fontColor=#cccccc;fontSize=12;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-470" y="530" width="346" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="F3ab-qrTLPZB82OGR7XM-292" value="Input text" style="text;fontSize=16;verticalAlign=middle;strokeColor=none;fillColor=none;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-470" y="550" width="346" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="F3ab-qrTLPZB82OGR7XM-293" value="" style="dashed=0;shape=line;strokeWidth=2;noLabel=1;strokeColor=#eeeeee;" vertex="1" parent="1">
-          <mxGeometry x="-470" y="575" width="346" height="10" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
