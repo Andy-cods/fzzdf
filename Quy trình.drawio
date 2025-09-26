@@ -65,7 +65,7 @@
         <mxCell id="po69ImwhDXV1_ez0qtBJ-23" value="Họp định kì" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" parent="po69ImwhDXV1_ez0qtBJ-28">
           <mxGeometry x="99.99999999999955" y="1690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="po69ImwhDXV1_ez0qtBJ-30" value="Planner" style="swimlane;startSize=20;html=1;labelBackgroundColor=none;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" collapsed="1" parent="po69ImwhDXV1_ez0qtBJ-27">
+        <mxCell id="po69ImwhDXV1_ez0qtBJ-30" value="Kế toán" style="swimlane;startSize=20;html=1;labelBackgroundColor=none;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" collapsed="1" parent="po69ImwhDXV1_ez0qtBJ-27">
           <mxGeometry x="40" y="20" width="40" height="1810" as="geometry">
             <mxRectangle x="320" y="20" width="180" height="1810" as="alternateBounds" />
           </mxGeometry>
@@ -79,7 +79,7 @@
         <mxCell id="F3ab-qrTLPZB82OGR7XM-257" value="Hợp đồng" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="po69ImwhDXV1_ez0qtBJ-30" vertex="1">
           <mxGeometry x="29.999999999999545" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="po69ImwhDXV1_ez0qtBJ-29" value="Kế toán" style="swimlane;startSize=20;html=1;labelBackgroundColor=none;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" collapsed="1" parent="po69ImwhDXV1_ez0qtBJ-27">
+        <mxCell id="po69ImwhDXV1_ez0qtBJ-29" value="Planner" style="swimlane;startSize=20;html=1;labelBackgroundColor=none;rounded=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" vertex="1" collapsed="1" parent="po69ImwhDXV1_ez0qtBJ-27">
           <mxGeometry x="80" y="20" width="40" height="1810" as="geometry">
             <mxRectangle x="500" y="20" width="170" height="1810" as="alternateBounds" />
           </mxGeometry>
